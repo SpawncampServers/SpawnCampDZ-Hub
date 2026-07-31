@@ -1,6 +1,6 @@
 # SpawnCamp DayZ Hub
 
-![SpawnCamp Servers](./background.jpg)
+![SpawnCamp Servers](./background.png)
 
 ### **SpawnCamp Servers — DayZ**
 > A PvE/PvP Chernarus survival experience hosted on private hardware with dynamic AI missions, vehicles, and QoL mods.
