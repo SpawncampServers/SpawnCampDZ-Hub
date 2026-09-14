@@ -1,5 +1,7 @@
 # SpawnCamp DayZ Hub
 
+![SpawnCamp Banner](https://raw.githubusercontent.com/SpawncampServers/SpawnCampDZ-Hub/refs/heads/main/background.png)
+
 ## SpawnCamp — DayZ | Vanilla++ | PvPvE
 
 Welcome to **SpawnCamp**, a refined **Vanilla++** experience built for players who love classic DayZ gameplay enhanced with expanded survival, base building, and movement options. Set on the frozen wilderness of Sakhal, we bring balanced progression without over-modded clutter.
