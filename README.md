@@ -1,5 +1,3 @@
-# SpawnCamp DayZ Hub
-
 ![SpawnCamp Banner](https://raw.githubusercontent.com/SpawncampServers/SpawnCampDZ-Hub/refs/heads/main/background.png)
 
 ## SpawnCamp — DayZ | Vanilla++ | PvPvE
